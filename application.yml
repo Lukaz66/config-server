@@ -13,4 +13,4 @@ spring:
                                          ##"?useTimezone=true&serverTimezone=UTC"
     url: jdbc:mysql://localhost:3306/cliente?useTimezone=true&serverTimezone=UTC
     username: root
-    password: '{cipher}81c3b080dad537de7e10e0987a4bf52e'
+    password: 81c3b080dad537de7e10e0987a4bf52e
